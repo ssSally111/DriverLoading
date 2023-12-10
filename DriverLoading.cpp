@@ -1,6 +1,5 @@
 #include <windows.h>
 #include <iostream>
-#include <atlstr.h>
 
 void DriverLoading(LPCWSTR lpDriverPath, LPCWSTR lpServiceName)
 {
